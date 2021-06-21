@@ -1,0 +1,1 @@
+update table category set description = 'Crédito' where id = 1
