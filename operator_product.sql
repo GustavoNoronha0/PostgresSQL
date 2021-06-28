@@ -1,0 +1,1 @@
+select description, qtd, value, (qtd * value) as total from product 
